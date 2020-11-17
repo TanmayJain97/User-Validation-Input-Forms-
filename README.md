@@ -1,5 +1,7 @@
 # User-Validation-Input-Forms-
 
-Modified to UC 1 - Validate Name
+Modified to UC 2 - Validate Email
 
-First name starts with Cap and has minimum 3 characters
+E.g. abc.xyz@bl.co.in -
+
+Email has 3 mandatory parts (abc, bl & co) and 2 optional (xyz & in) with precise @ and . positions
