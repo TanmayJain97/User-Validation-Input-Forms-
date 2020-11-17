@@ -1,7 +1,5 @@
 # User-Validation-Input-Forms-
 
-Modified to UC 2 - Validate Email
+Modified to UC 3 - Validate Phone Mobile No
 
-E.g. abc.xyz@bl.co.in -
-
-Email has 3 mandatory parts (abc, bl & co) and 2 optional (xyz & in) with precise @ and . positions
+Country code follow by space and 10 digit number
